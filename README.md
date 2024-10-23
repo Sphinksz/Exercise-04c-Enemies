@@ -1,4 +1,4 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Coins
 
 ## Implementation
 
